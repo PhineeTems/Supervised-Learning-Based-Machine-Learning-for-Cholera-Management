@@ -1,3 +1,28 @@
+# Cholera Management Based on Supervised Machine Learning
+
+Welcome to this project dedicated to the use of supervised machine learning for cholera management. This project aims to explore how supervised learning models can be used to predict, prevent, and manage cholera epidemics based on environmental data.
+
+## Objective
+
+The main objective of this study is to develop a robust predictive model capable of predicting cholera prevalence based on various environmental factors. Using supervised learning techniques, we aim to identify significant correlations, optimize prediction accuracy, and provide actionable insights to strengthen cholera management strategies.
+
+## Project Content
+
+- **Data Collection:** Find out more about the data sources used, the environmental variables considered, and the collection methods.
+
+- **Data Analysis:** Explore the data analysis steps, including cleaning, transformation, and feature selection to prepare the data for supervised learning.
+
+- **Modeling:** Discover the supervised learning models used, optimization techniques, and results obtained in predicting cholera prevalence.
+
+- **Contributions:** Understand how this project contributes to public health research by integrating innovative approaches for the proactive management of cholera.
+
+## How to Contribute
+
+If you would like to contribute to this project, please feel free to open issues, submit pull requests, or share your ideas in the discussions. Collaboration is key to continuously improving our understanding and approaches in the fight against cholera.
+
+
+
+
 # Gestion du Choléra basée sur l'Apprentissage Supervisé en Machine Learning
 
 Bienvenue dans ce projet dédié à l'utilisation de l'apprentissage supervisé en machine learning pour la gestion du choléra. Ce projet vise à explorer comment les modèles d'apprentissage supervisé peuvent être exploités pour prédire, prévenir, et gérer les épidémies de choléra en se basant sur des données environnementales.
